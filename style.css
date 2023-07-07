@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(image/home-page-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    color: #fff;
+    font-family: 'Lilita One', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1, .btn{
+    text-align: center;
+    margin-top: 50px;
+}
+
